@@ -59,7 +59,7 @@ clusterer.plot_regimes(data, labels)
 ```
 
 ## Licencia
-MIT
+Propia 
 
 ## Autor
-[Tu Nombre]
+Leonardo I
